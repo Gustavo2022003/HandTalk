@@ -5,9 +5,9 @@ import numpy as np
 import os
 
 class HandGestureDetector:
-    def __init__(self, model_path='keras_model.h5'):
+    def __init__(self):
         self.hands = mp.solutions.hands.Hands(max_num_hands=1)
-        self.model = load_model(model_path)
+        self.model = load_model("C:\\Users\\Gusta\\OneDrive\\Documentos\\GitHub\\HandTalk\\keras_model.h5")
         self.classes = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'Eu te amo']
         self.data = np.ndarray(shape=(1, 224, 224, 3), dtype=np.float32)
 
