@@ -38,28 +38,28 @@
 <div style="background-color: #21262d; width: 100%; height: 1px; border-radius: 100px"></div>
 
 <h2 align="center">Downloads</h2>
-<p align="center">
+<div style="margin: auto;">
     <table>
-    <tr>
-        <th>Download</th>
-        <th>Name</th>
-        <th>File size</th>
-        <th>Extension</th>
-        <th>Release date</th>
-    </tr>
-    <tr>
-        <td><a href="public/Docs/HandTalk.pdf">Download</a></td>
-        <td>Documentação - P.I.</td>
-        <td>1.78MB</td>
-        <td>.docx</td>
-        <td>1/12/23</td>
-    </tr>
         <tr>
-        <td><a href="HandTalk.rar">Download</a></td>
-        <td>HandTalk v1.0.1 alpha</td>
-        <td>37.6MB</td>
-        <td>.rar</td>
-        <td>1/12/23</td>
-    </tr>
-</table>
-</p>
+            <th>Download</th>
+            <th>Name</th>
+            <th>File size</th>
+            <th>Extension</th>
+            <th>Release date</th>
+        </tr>
+        <tr>
+            <td><a href="public/Docs/HandTalk.pdf">Download</a></td>
+            <td>Documentação - P.I.</td>
+            <td>1.78MB</td>
+            <td>.docx</td>
+            <td>1/12/23</td>
+        </tr>
+            <tr>
+            <td><a href="HandTalk.rar">Download</a></td>
+            <td>HandTalk v1.0.1 alpha</td>
+            <td>37.6MB</td>
+            <td>.rar</td>
+            <td>1/12/23</td>
+        </tr>
+    </table>
+</div>
