@@ -1,6 +1,6 @@
-<a><p align="center">
+<a href="#"><p align="center">
   <img src="public/assets/images/Handtalk logo.png" style="width: 300px;" />
-</p><a>
+</p></a>
 
 <br>
 <p style="text-align: justify">O <a href="https://hand-talk.netlify.app/" target="_blank" style="color: yellow">HandTalk</a> é um software desenvolvido em Python, utilizando as bibliotecas OpenCV. Esse software permite a detecção de sinais feitos com as mãos, com o objetivo de facilitar a comunicação e promover a acessibilidade para pessoas com deficiências vocais.</p>
